@@ -16,3 +16,5 @@ List of European companies which sponsored visa for employment
 | bunq | Amsterdam, NL | Engineering | Java | https://www.bunq.com/jobs
 | HelloFresh | Berlin, DE | Engineering | Go, JavaScript, Node.js | https://www.hellofresh.com/careers/ | 
 | Trivago | Dusseldorf, DE | Engineering | Java, Python, Javascript |https://company.trivago.com/open-positions/ |
+| N26 | Berlin, DE | Engineering | | https://n26.com/en/careers
+| Wayfair | Berlin, DE | Engineering | | https://www.aboutwayfair.com/careers
