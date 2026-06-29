@@ -21,5 +21,27 @@ If you want to add a company into this list, just create an [issue](https://gith
 | bunq | Amsterdam, NL | Engineering | Java | https://www.bunq.com/jobs
 | HelloFresh | Berlin, DE | Engineering | Go, JavaScript, Node.js | https://www.hellofresh.com/careers/ | 
 | Trivago | Dusseldorf, DE | Engineering | Java, Python, Javascript |https://company.trivago.com/open-positions/ |
-| N26 | Berlin, DE | Engineering | | https://n26.com/en/careers
-| Wayfair | Berlin, DE | Engineering | | https://www.aboutwayfair.com/careers
+| N26 | Berlin, DE | Engineering | | https://n26.com/en/careers |
+| Wayfair | Berlin, DE | Engineering | | https://www.aboutwayfair.com/careers |
+| SAP | Walldorf, DE | Engineering | Java, Python, JavaScript | https://jobs.sap.com/ |
+| Spotify | Stockholm, SE / Berlin, DE | Engineering | Java, Python, Scala | https://www.lifeatspotify.com/ |
+| SoundCloud | Berlin, DE | Engineering | Ruby, Go, JavaScript | https://careers.soundcloud.com/ |
+| Celonis | Munich, DE | Engineering | Java, Python | https://www.celonis.com/careers/ |
+| CHECK24 | Munich, DE | Engineering | Java, PHP | https://careers.check24.de/ |
+| Personio | Munich, DE | Engineering | PHP, Go, JavaScript | https://www.personio.com/about-personio/careers/ |
+| Trade Republic | Berlin, DE | Engineering | Java, Kotlin | https://traderepublic.com/careers |
+| Contentful | Berlin, DE | Engineering | JavaScript, Node.js | https://www.contentful.com/careers/ |
+| FlixMobility | Munich, DE | Engineering | Java, Kotlin, Python | https://www.flixbus.com/company/jobs |
+| Idealo | Berlin, DE | Engineering | Java, Python | https://www.idealo.de/jobs/ |
+| Booking.com | Amsterdam, NL | Engineering | Java, Python, JavaScript | https://jobs.booking.com/ |
+| Adyen | Amsterdam, NL | Engineering | Java | https://www.adyen.com/careers |
+| TomTom | Amsterdam, NL | Engineering | C++, Java | https://www.tomtom.com/careers/ |
+| ASML | Eindhoven, NL | Engineering | Python, C++ | https://www.asml.com/en/careers |
+| King | Stockholm, SE | Engineering | Java, C++ | https://careers.king.com/ |
+| Doctolib | Paris, FR | Engineering | Ruby, JavaScript | https://careers.doctolib.fr/ |
+| Criteo | Paris, FR | Engineering | Java, Scala, Python | https://www.criteo.com/careers/ |
+| BlaBlaCar | Paris, FR | Engineering | PHP, Python, Go | https://www.blablacar.com/jobs |
+| Bitpanda | Vienna, AT | Engineering | Go, JavaScript | https://www.bitpanda.com/en/careers |
+| Cabify | Madrid, ES | Engineering | Go, Ruby | https://cabify.com/en/jobs |
+| Typeform | Barcelona, ES | Engineering | JavaScript, Node.js | https://www.typeform.com/careers/ |
+| Factorial | Barcelona, ES | Engineering | Ruby, JavaScript | https://factorialhr.com/jobs |
